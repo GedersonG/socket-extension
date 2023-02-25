@@ -1,0 +1,38 @@
+{
+	"Connection create":{
+		"prefix": "NewSocket",
+		"body": [
+			"export default (io) => {",
+			"\tio.on(\"${1:connection}\", (socket) => {",
+			"",
+			"\t//Enter your code here",
+			"\t${2}",
+			"",
+			"\t}) //End method connection",
+			"} //End socket code"
+		]
+	},
+	"Socket Listener":{
+		"prefix": "SocketOn",
+		"body": [
+			"socket.on(\"${1}\", async (${2:data}) => {",
+			"\t//Enter your code here",
+			"\t${3}",
+			"})"
+		]
+	},
+	"Socket Emit":{
+		"prefix": "SocketEmit",
+		"body": "socket.emit(\"${1}\", ${data})"
+		
+	},
+	"Socket Broadcast":{
+		"prefix": "SocketBroadcast",
+		"body": "socket.broadcast.emit(\"${1}\", ${data})",
+		"description": "Funcion broadcast (Al emitir todos escuchan excepto this connection)"
+	},
+	"IO Emit":{
+		"prefix": "IOEmit",
+		"body": "io.emit(\"${1:}\", ${data})"
+	}
+}

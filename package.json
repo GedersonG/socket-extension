@@ -3,11 +3,13 @@
   "displayName": "DatAge: Sockets",
   "description": "Metodos básicos para WebSockets en JavaScript",
   "version": "0.0.1",
+  "publisher": "MarioNeta",
+  "repository": "https://github.com/GedersonG/socket-extension.git",
   "engines": {
     "vscode": "^1.75.0"
   },
   "categories": [
-    "Other"
+    "Snippets"
   ],
   "activationEvents": [],
   "main": "./extension.js",
@@ -15,7 +17,13 @@
     "commands": [{
       "command": "datage--sockets.helloWorld",
       "title": "Hello World"
-    }]
+    }],
+    "snippets": [
+      {
+        "language": "javascript",
+        "path": "snippet.json"
+      }
+    ]
   },
   "scripts": {
     "lint": "eslint .",
