@@ -1,6 +1,6 @@
 # Sockets para NodeJS
 
-[![DatAge](https://raw.githubusercontent.com/GedersonG/socket-extension/main/img/Adjust-logo.png)](https://datage-production.up.railway.app/)
+[![DatAge](https://raw.githubusercontent.com/GedersonG/socket-extension/main/img/Adjust-logo.PNG)](https://datage-production.up.railway.app/)
 
 ## Table of Contents
 1. [Informacion general](#general-info)
@@ -90,6 +90,11 @@ Para instalar el plugin DatAge: Sockets, es necesario tener previamente instalad
 ![Extensión sockets - DatAge](https://raw.githubusercontent.com/GedersonG/socket-extension/main/img/extension-datage.PNG)
 
 ### 4. Preguntas frecuentes
+
+- **¿Por qué usar la extensión DatAge: Sockets?**
+    La extension _**DatAge:** Sockets_ permite facilitar la construcción de métodos básicos que se implementan en los sockets como emitir y escuchar por parte de los sockets en el servidor y cliente, además de iniciar la comunicación recibiendo la conexión HTTP del usuario en cuestión.
+
+### 5. Licencia
 
 Licencia MIT
 
