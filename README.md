@@ -1,6 +1,6 @@
 # Sockets para NodeJS
 
-[![DatAge](https://raw.githubusercontent.com/GedersonG/socket-extension/main/img/datage-icon.png)](https://datage-production.up.railway.app/)
+[![DatAge](https://raw.githubusercontent.com/GedersonG/socket-extension/main/img/Adjust-logo.png)](https://datage-production.up.railway.app/)
 
 ## Table of Contents
 1. [Informacion general](#general-info)

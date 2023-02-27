@@ -2,7 +2,7 @@
   "name": "datage--sockets",
   "displayName": "DatAge: Sockets",
   "description": "Metodos básicos para WebSockets en JavaScript",
-  "version": "0.0.7",
+  "version": "0.1.1",
   "icon": "img/datage-icon.png",
   "publisher": "MarioNeta",
   "repository": {
