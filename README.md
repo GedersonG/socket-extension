@@ -1,6 +1,6 @@
 # Sockets para NodeJS
 
-[![](./img/datage-icon.png)](https://datage-production.up.railway.app/)
+[![DatAge](https://raw.githubusercontent.com/GedersonG/socket-extension/main/img/datage-icon.png)](https://datage-production.up.railway.app/)
 
 ## Table of Contents
 1. [Informacion general](#general-info)
@@ -87,7 +87,7 @@ io.emit("", {data})
 
 Para instalar el plugin DatAge: Sockets, es necesario tener previamente instalado el editor de texto [Visual Studio Code](https://code.visualstudio.com/), a continuación desde la pestaña de Extensiones, o bien con el comando Crtl + Shift + X (windows) buscamos la extensión **DatAge** y presionamos _Install_.
 
-![Extensión sockets - DatAge](img/extension-datage.png)
+![Extensión sockets - DatAge](https://raw.githubusercontent.com/GedersonG/socket-extension/main/img/extension-datage.PNG)
 
 ### 4. Preguntas frecuentes
 
