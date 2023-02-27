@@ -4,7 +4,6 @@
 		"body": [
 			"export default (io) => {",
 			"\tio.on(\"${1:connection}\", (socket) => {",
-			"",
 			"\t//Enter your code here",
 			"\t${2}",
 			"",
@@ -33,6 +32,6 @@
 	},
 	"IO Emit":{
 		"prefix": "IOEmit",
-		"body": "io.emit(\"${1:}\", ${data})"
+		"body": "io.emit(\"${1}\", ${data})"
 	}
 }

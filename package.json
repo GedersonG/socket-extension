@@ -2,9 +2,13 @@
   "name": "datage--sockets",
   "displayName": "DatAge: Sockets",
   "description": "Metodos básicos para WebSockets en JavaScript",
-  "version": "0.0.1",
+  "version": "0.0.7",
+  "icon": "img/datage-icon.png",
   "publisher": "MarioNeta",
-  "repository": "https://github.com/GedersonG/socket-extension.git",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GedersonG/socket-extension.git"
+  },
   "engines": {
     "vscode": "^1.75.0"
   },
@@ -14,14 +18,10 @@
   "activationEvents": [],
   "main": "./extension.js",
   "contributes": {
-    "commands": [{
-      "command": "datage--sockets.helloWorld",
-      "title": "Hello World"
-    }],
     "snippets": [
       {
         "language": "javascript",
-        "path": "snippet.json"
+        "path": "./snippet.json"
       }
     ]
   },
