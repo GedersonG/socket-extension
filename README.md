@@ -15,7 +15,7 @@ Esta extensión está construida en JavaScript. Contiene cinco (5) snippets para
 
 Los fragmentos de código que contienen los snippets son estructuras básicas de métodos con sockets, como la inicialización de una conexión o una función básica de los WebSockets como emitir o escuchar.
 
-Aunque estos fragmentos contengan la estructura básica de la utilización más general de éstos métodos, no es una obligación que esa deba ser su estructura sino una sugerencia que nos ayude a redactar código de manera mas rápida.
+Aunque estos fragmentos contienen la estructura básica de la utilización más general de éstos métodos, no es una obligación que esa deba ser su estructura sino una sugerencia que nos ayude a redactar código de manera mas rápida.
 
 A continuación, se detallarán los snippets que implementa esta extensión:
 
