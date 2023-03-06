@@ -4,7 +4,7 @@
 
 ## Table of Contents
 1. [Información general](#1-información-general)
-2. [Tecnologías](#2-tecnología)
+2. [Tecnologías](#2-tecnologías)
 3. [Instalación](#3-instalación)
 4. [Preguntas frecuentes](#4-preguntas-frecuentes)
 5. [Licencia](#5-licencia)
