@@ -12,14 +12,12 @@
   "engines": {
     "vscode": "^1.75.0"
   },
-  "categories": [
-    "Snippets"
-  ],
+  "categories": ["Snippets"],
   "activationEvents": [],
   "main": "./extension.js",
+
   "contributes": {
-    "snippets": [
-      {
+    "snippets": [{
         "language": "javascript",
         "path": "./snippet.json"
       }
