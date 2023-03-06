@@ -3,11 +3,11 @@
 [![DatAge](https://raw.githubusercontent.com/GedersonG/socket-extension/main/img/Adjust-logo.PNG)](https://datage-production.up.railway.app/)
 
 ## Table of Contents
-1. [Informacion general](#general-info)
-2. [Tecnologías](#technologies)
-3. [Instalación](#installation)
-4. [Preguntas frecuentes](#faqs)
-5. [Licencia](#license)
+1. [Informacion general](#1-informacion-general)
+2. [Tecnologías](#2-tecnologia)
+3. [Instalación](#3-instalacion)
+4. [Preguntas frecuentes](#4-preguntas-frecuentes)
+5. [Licencia](#5-licencia)
 
 ### 1. Información general
 
