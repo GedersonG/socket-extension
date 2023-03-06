@@ -100,10 +100,9 @@ Para instalar el plugin DatAge: Sockets, es necesario tener previamente instalad
 
 **Free Software !!! :D**
 
-## 👯‍♀️ Authors
+## 6. 👯‍♀️ Authors
 
 - [@gederson](https://github.com/GedersonG)
-- [@gederson](https://www.github.com/GedersonG)
 
 - [@CamiloR](https://www.github.com/CamiloRamirezP)
 
@@ -113,6 +112,6 @@ Para instalar el plugin DatAge: Sockets, es necesario tener previamente instalad
 
 - [@name](https://www.github.com/)
 
-## Documentation
+## 7. 👩‍💻 Documentation
 
 [Documentation](https://docs.google.com/document/d/1gewPhSp0FSilMlkJxB-aGiw4JRkLItmUHs6Aegr1xIM/edit?usp=sharing)

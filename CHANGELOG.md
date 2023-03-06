@@ -1,51 +1,63 @@
-
 # Change Log
-All notable changes to this project will be documented in this file.
- 
-The format is based on [Keep a Changelog](http://keepachangelog.com/)
-and this project adheres to [Semantic Versioning](http://semver.org/).
- 
-## [Unreleased] - yyyy-mm-dd
- 
-Here we write upgrading notes for brands. It's a team effort to make them as
-straightforward as possible.
+Todos los cambios notables en este proyecto se documentarán en este archivo.
  
 ### Added
-- [PROJECTNAME-XXXX](http://tickets.projectname.com/browse/PROJECTNAME-XXXX)
-  MINOR Ticket title goes here.
-- [PROJECTNAME-YYYY](http://tickets.projectname.com/browse/PROJECTNAME-YYYY)
-  PATCH Ticket title goes here.
+
+- [DatAge: Sockets](https://datage-production.up.railway.app/)
+
+Control de versionamiento en marketplace: [Version History](https://marketplace.visualstudio.com/items?itemName=MarioNeta.datage--sockets&ssr=false#version-history)
  
-### Changed
+## [0.1.0] - 2/27/2023
+ 
+### Added
+
+Arreglo de errores generales
  
 ### Fixed
  
-## [1.2.4] - 2017-03-15
-  
-Here we would have the update steps for 1.2.4 for people to follow.
+- [Version 0.1.0 VSIX](https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MarioNeta/vsextensions/datage--sockets/0.1.0/vspackage)
+  Descargar la version 0.1.0 DatAge Extension
+ 
+## [0.1.1] - 2/27/2023
  
 ### Added
- 
-### Changed
-  
-- [PROJECTNAME-ZZZZ](http://tickets.projectname.com/browse/PROJECTNAME-ZZZZ)
-  PATCH Drupal.org is now used for composer.
+
+Correccion de linkeo de imagenes
  
 ### Fixed
  
-- [PROJECTNAME-TTTT](http://tickets.projectname.com/browse/PROJECTNAME-TTTT)
-  PATCH Add logic to runsheet teaser delete to delete corresponding
-  schedule cards.
- 
-## [1.2.3] - 2017-03-14
+- [Version 0.1.1 VSIX](https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MarioNeta/vsextensions/datage--sockets/0.1.1/vspackage)
+  Descargar la version 0.1.1 DatAge Extension
+
+## [0.1.2] - 2/27/2023
  
 ### Added
-   
-### Changed
+
+Eliminación de comandos innecesarios
  
 ### Fixed
  
-- [PROJECTNAME-UUUU](http://tickets.projectname.com/browse/PROJECTNAME-UUUU)
-  MINOR Fix module foo tests
-- [PROJECTNAME-RRRR](http://tickets.projectname.com/browse/PROJECTNAME-RRRR)
-  MAJOR Module foo's timeline uses the browser timezone for date resolution 
+- [Version 0.1.2 VSIX](https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MarioNeta/vsextensions/datage--sockets/0.1.2/vspackage)
+  Descargar la version 0.1.2 DatAge Extension
+
+## [0.1.3] - 2/27/2023
+ 
+### Added
+
+Agregacion de imagenes, ícono y autores
+ 
+### Fixed
+ 
+- [Version 0.1.3 VSIX](https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MarioNeta/vsextensions/datage--sockets/0.1.3/vspackage)
+  Descargar la version 0.1.3 DatAge Extension
+
+## [0.1.4] - 	3/1/2023
+ 
+### Added
+
+Version corregida de errores generales
+ 
+### Fixed
+ 
+- [Version 0.1.4 VSIX](https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MarioNeta/vsextensions/datage--sockets/0.1.4/vspackage)
+  Descargar la version 0.1.4 DatAge Extension
