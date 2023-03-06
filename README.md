@@ -83,7 +83,7 @@ io.emit("", {data})
 - [JavaScript](https://www.javascript.com/) - Lenguaje principal utilizado para el desarrollo del plugin.
 - [Marketplace Visual Studio Code](https://marketplace.visualstudio.com/vscode) - Plataforma encargada del gestionamiento de la extensión.
 
-## 3. Instalación
+### 3. Instalación
 
 Para instalar el plugin DatAge: Sockets, es necesario tener previamente instalado el editor de texto [Visual Studio Code](https://code.visualstudio.com/), a continuación desde la pestaña de Extensiones, o bien con el comando Crtl + Shift + X (windows) buscamos la extensión **DatAge** y presionamos _Install_.
 
