@@ -61,3 +61,14 @@ Version corregida de errores generales
  
 - [Version 0.1.4 VSIX](https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MarioNeta/vsextensions/datage--sockets/0.1.4/vspackage)
   Descargar la version 0.1.4 DatAge Extension
+
+## [0.1.5] - 	3/1/2023
+ 
+### Added
+
+Corrección general de Readme.MD y agregacion de Changelog.MD
+ 
+### Fixed
+ 
+- [Version 0.1.5 VSIX](https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MarioNeta/vsextensions/datage--sockets/0.1.5/vspackage)
+  Descargar la version 0.1.5 DatAge Extension
