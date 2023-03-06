@@ -96,13 +96,13 @@ Para instalar el plugin DatAge: Sockets, es necesario tener previamente instalad
 
 ### 5. 📫 Licencia
 
-Licencia MIT
+![Licencia](https://img.shields.io/badge/Licencia-MTI-blue)
 
 **Free Software !!! :D**
 
 ## 👯‍♀️ Authors
 
-- [@gederson](https://www.github.com/https://github.com/GedersonG)
+- [@gederson](https://github.com/GedersonG)
 
 - [@name](https://www.github.com/https://github.com/name)
 
