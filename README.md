@@ -102,15 +102,15 @@ Licencia MIT
 
 ## 👯‍♀️ Authors
 
-- [@gederson](https://www.github.com/https://github.com/GedersonG)
+- [@gederson](https://www.github.com/GedersonG)
 
 - [@CamiloR](https://www.github.com/CamiloRamirezP)
 
-- [@name](https://www.github.com/https://github.com/name)
+- [@name](https://www.github.com/)
 
-- [@name](https://www.github.com/https://github.com/name)
+- [@name](https://www.github.com/)
 
-- [@name](https://www.github.com/https://github.com/name)
+- [@name](https://www.github.com/)
 
 ## Documentation
 
