@@ -87,9 +87,12 @@ io.emit("", {data})
 
 ### 2. 🔗 Tecnologías
 
-- [Azure DevOps](https://azure.microsoft.com/es-es/products/devops) - Suministrador de organización encargada de la administración de servicios marketplace.
-- [JavaScript](https://www.javascript.com/) - Lenguaje principal utilizado para el desarrollo del plugin.
-- [Marketplace Visual Studio Code](https://marketplace.visualstudio.com/vscode) - Plataforma encargada del gestionamiento de la extensión.
+
+| Tecnologías                                                                        | Uso                                                                            |
+|-------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
+| [![Azure DevOps](https://img.shields.io/badge/Azure_Devops-blue)](https://azure.microsoft.com/es-es/products/devops)             | Suministrador de organización encargada de la administración de servicios marketplace. |
+| [![JavaScript](https://img.shields.io/badge/JavaScript-yellow)](https://www.javascript.com/)                                     | Lenguaje principal utilizado para el desarrollo del plugin.                            |
+| [![Marketplace Visual Studio Code](https://img.shields.io/badge/Marketplace_Visual_Studio_Code-red)](https://marketplace.visualstudio.com/vscode) | Plataforma encargada del gestionamiento de la extensión.
 
 ### 3. ⚡️ Instalación
 
@@ -110,15 +113,15 @@ Para instalar el plugin DatAge: Sockets, es necesario tener previamente instalad
 
 ## 6. 👯‍♀️ Authors
 
-- [@gederson](https://github.com/GedersonG)
+- [@Gederson Gustavo](https://github.com/GedersonG)
 
-- [@CamiloR](https://www.github.com/CamiloRamirezP)
+- [@Camilo Ramirez](https://www.github.com/CamiloRamirezP)
 
-- [@name](https://www.github.com/)
+- [@Daniela Sanchez](https://www.github.com/DanielaSanchezb)
 
-- [@name](https://www.github.com/)
+- [@Jeison Ferrer](https://www.github.com/joferrer)
 
-- [@name](https://www.github.com/)
+- [@Jhonny Guarin](https://www.github.com/JhonnyGCH)
 
 ## 7. 👩‍💻 Documentation
 
