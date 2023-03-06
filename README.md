@@ -79,9 +79,12 @@ io.emit("", {data})
 
 ### 2. 🔗 Tecnologías
 
-- [Azure DevOps](https://azure.microsoft.com/es-es/products/devops) - Suministrador de organización encargada de la administración de servicios marketplace.
-- [JavaScript](https://www.javascript.com/) - Lenguaje principal utilizado para el desarrollo del plugin.
-- [Marketplace Visual Studio Code](https://marketplace.visualstudio.com/vscode) - Plataforma encargada del gestionamiento de la extensión.
+
+| Tecnologías                                                                        | Uso                                                                            |
+|-------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
+| [![Azure DevOps](https://img.shields.io/badge/Azure_Devops-blue)](https://azure.microsoft.com/es-es/products/devops)             | Suministrador de organización encargada de la administración de servicios marketplace. |
+| [![JavaScript](https://img.shields.io/badge/JavaScript-yellow)](https://www.javascript.com/)                                     | Lenguaje principal utilizado para el desarrollo del plugin.                            |
+| [![Marketplace Visual Studio Code](https://img.shields.io/badge/Marketplace_Visual_Studio_Code-red)](https://marketplace.visualstudio.com/vscode) | Plataforma encargada del gestionamiento de la extensión.
 
 ### 3. ⚡️ Instalación
 
