@@ -103,14 +103,15 @@ Para instalar el plugin DatAge: Sockets, es necesario tener previamente instalad
 ## 👯‍♀️ Authors
 
 - [@gederson](https://github.com/GedersonG)
+- [@gederson](https://www.github.com/GedersonG)
 
-- [@name](https://www.github.com/https://github.com/name)
+- [@CamiloR](https://www.github.com/CamiloRamirezP)
 
-- [@name](https://www.github.com/https://github.com/name)
+- [@name](https://www.github.com/)
 
-- [@name](https://www.github.com/https://github.com/name)
+- [@name](https://www.github.com/)
 
-- [@name](https://www.github.com/https://github.com/name)
+- [@name](https://www.github.com/)
 
 ## Documentation
 
