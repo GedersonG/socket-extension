@@ -104,7 +104,7 @@ Licencia MIT
 
 - [@gederson](https://www.github.com/https://github.com/GedersonG)
 
-- [@CamiloR](https://www.github.com/https://github.com/CamiloRamirezP)
+- [@CamiloR](https://www.github.com/CamiloRamirezP)
 
 - [@name](https://www.github.com/https://github.com/name)
 
