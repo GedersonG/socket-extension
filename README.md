@@ -77,7 +77,7 @@ Para llamar al snippet, escribimos _IOEmit_ y presionamos _Enter_ o _Tab_
 io.emit("", {data})
 ```
 
-### 2. Tecnologías
+### 2. 🔗 Tecnologías
 
 - [Azure DevOps](https://azure.microsoft.com/es-es/products/devops) - Suministrador de organización encargada de la administración de servicios marketplace.
 - [JavaScript](https://www.javascript.com/) - Lenguaje principal utilizado para el desarrollo del plugin.
@@ -89,7 +89,7 @@ Para instalar el plugin DatAge: Sockets, es necesario tener previamente instalad
 
 ![Extensión sockets - DatAge](https://raw.githubusercontent.com/GedersonG/socket-extension/main/img/extension-datage.PNG)
 
-### 4. Preguntas frecuentes
+### 4. 💬 Preguntas frecuentes
 
 - **¿Por qué usar la extensión DatAge: Sockets?**
     La extension _**DatAge:** Sockets_ permite facilitar la construcción de métodos básicos que se implementan en los sockets como emitir y escuchar por parte de los sockets en el servidor y cliente, además de iniciar la comunicación recibiendo la conexión HTTP del usuario en cuestión.
@@ -99,3 +99,19 @@ Para instalar el plugin DatAge: Sockets, es necesario tener previamente instalad
 Licencia MIT
 
 **Free Software !!! :D**
+
+## Authors
+
+- [@gederson](https://www.github.com/https://github.com/GedersonG)
+
+- [@name](https://www.github.com/https://github.com/name)
+
+- [@name](https://www.github.com/https://github.com/name)
+
+- [@name](https://www.github.com/https://github.com/name)
+
+- [@name](https://www.github.com/https://github.com/name)
+
+## Documentation
+
+[Documentation](https://docs.google.com/document/d/1gewPhSp0FSilMlkJxB-aGiw4JRkLItmUHs6Aegr1xIM/edit?usp=sharing)
