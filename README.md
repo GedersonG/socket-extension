@@ -1,6 +1,6 @@
 # Sockets para NodeJS
 
-[![DatAge](https://raw.githubusercontent.com/GedersonG/socket-extension/main/img/Adjust-logo.png)](https://datage-production.up.railway.app/)
+[![DatAge](https://raw.githubusercontent.com/GedersonG/socket-extension/main/img/Adjust-logo.PNG)](https://datage-production.up.railway.app/)
 
 ## Table of Contents
 1. [Información general](#1-información-general)
@@ -9,7 +9,7 @@
 4. [Preguntas frecuentes](#4-preguntas-frecuentes)
 5. [Licencia](#5-licencia)
 
-### 1. Información general
+### 1. 🤔 Información general
 
 Esta extensión está construida en JavaScript. Contiene cinco (5) snippets para NodeJS que podemos utilizar principalmente en nuestra clase que contiene la conexión y comunicaciones de Sockets cliente / servidor.
 
@@ -83,7 +83,7 @@ io.emit("", {data})
 - [JavaScript](https://www.javascript.com/) - Lenguaje principal utilizado para el desarrollo del plugin.
 - [Marketplace Visual Studio Code](https://marketplace.visualstudio.com/vscode) - Plataforma encargada del gestionamiento de la extensión.
 
-### 3. Instalación
+### 3. ⚡️ Instalación
 
 Para instalar el plugin DatAge: Sockets, es necesario tener previamente instalado el editor de texto [Visual Studio Code](https://code.visualstudio.com/), a continuación desde la pestaña de Extensiones, o bien con el comando Crtl + Shift + X (windows) buscamos la extensión **DatAge** y presionamos _Install_.
 
@@ -94,13 +94,13 @@ Para instalar el plugin DatAge: Sockets, es necesario tener previamente instalad
 - **¿Por qué usar la extensión DatAge: Sockets?**
     La extension _**DatAge:** Sockets_ permite facilitar la construcción de métodos básicos que se implementan en los sockets como emitir y escuchar por parte de los sockets en el servidor y cliente, además de iniciar la comunicación recibiendo la conexión HTTP del usuario en cuestión.
 
-### 5. Licencia
+### 5. 📫 Licencia
 
 Licencia MIT
 
 **Free Software !!! :D**
 
-## Authors
+## 👯‍♀️ Authors
 
 - [@gederson](https://www.github.com/https://github.com/GedersonG)
 
