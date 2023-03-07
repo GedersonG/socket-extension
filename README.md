@@ -19,11 +19,11 @@ Aunque estos fragmentos contienen la estructura básica de la utilización más 
 
 La arquitectura implementada en este proyecto es la arquitectura microkernel. El patrón de arquitectura Microkernel permite añadir características adicionales de la aplicación como plug-ins a la aplicación central, proporcionando extensibilidad así como separación y aislamiento de características.
 
-[Microkernel](https://reactiveprogramming.io/figures/microkernel-plugin.png)
+[![Microkernel](https://reactiveprogramming.io/figures/microkernel-plugin.png)](https://reactiveprogramming.io/blog/es/estilos-arquitectonicos/microkernel)
 
 El core system representa la aplicación a la que va dirigida el plugin, que correspone a cualquier aplicación que implemente sockets, importando la API de Visual Studio Code, la cuál suministra los servicios adecuados para la generación de extensiones y finalmente importa el plugin generado.
 
-[Library Microkernel](https://w7.pngwing.com/pngs/996/157/png-transparent-exokernel-operating-systems-microkernel-system-call-computer-text-computer-material-thumbnail.png)
+[![Library Microkernel](https://w7.pngwing.com/pngs/996/157/png-transparent-exokernel-operating-systems-microkernel-system-call-computer-text-computer-material-thumbnail.png)](https://www.pngwing.com/es/search?q=lenguaje+ensamblador)
 
 A continuación, se detallarán los snippets que implementa esta extensión:
 
