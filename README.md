@@ -25,7 +25,7 @@ La arquitectura implementada en este proyecto es la arquitectura microkernel. El
 
 El core system representa la aplicación a la que va dirigida el plugin, que correspone a cualquier aplicación que implemente sockets, importando la API de Visual Studio Code, la cuál suministra los servicios adecuados para la generación de extensiones y finalmente importa el plugin generado.
 
-[![Library Microkernel](https://w7.pngwing.com/pngs/996/157/png-transparent-exokernel-operating-systems-microkernel-system-call-computer-text-computer-material-thumbnail.png)](https://raw.githubusercontent.com/GedersonG/socket-extension/main/img/Library.PNG)
+[![Library Microkernel](https://raw.githubusercontent.com/GedersonG/socket-extension/main/img/Library.PNG)](https://chsosunal20192916034.wordpress.com/2020/01/26/tipos-de-s-o-de-acuerdo-al-kernel/)
 
 A continuación, se detallarán los snippets que implementa esta extensión:
 
