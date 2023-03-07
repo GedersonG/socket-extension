@@ -2,14 +2,16 @@
 
 [![DatAge](https://raw.githubusercontent.com/GedersonG/socket-extension/main/img/Adjust-logo.png)](https://datage-production.up.railway.app/)
 
-## Table of Contents
+## Tabla de contenidos
 1. [Información general](#1--información-general)
 2. [Tecnologías](#2--tecnologías)
 3. [Instalación](#3-%EF%B8%8F-instalación)
 4. [Preguntas frecuentes](#4--preguntas-frecuentes)
 5. [Licencia](#5--licencia)
+6. [Autores](#6--autores)
+7. [Documentacion](#7--documentacion)
 
-### 1. 🤔 Información general
+## 1. 🤔 Información general
 
 Esta extensión está construida en JavaScript. Contiene cinco (5) snippets para NodeJS que podemos utilizar principalmente en nuestra clase que contiene la conexión y comunicaciones de Sockets cliente / servidor.
 
@@ -85,7 +87,7 @@ Para llamar al snippet, escribimos _IOEmit_ y presionamos _Enter_ o _Tab_
 io.emit("", {data})
 ```
 
-### 2. 🔗 Tecnologías
+## 2. 🔗 Tecnologías
 
 
 | Tecnologías                                                                        | Uso                                                                            |
@@ -94,24 +96,24 @@ io.emit("", {data})
 | [![JavaScript](https://img.shields.io/badge/JavaScript-yellow)](https://www.javascript.com/)                                     | Lenguaje principal utilizado para el desarrollo del plugin.                            |
 | [![Marketplace Visual Studio Code](https://img.shields.io/badge/Marketplace_Visual_Studio_Code-red)](https://marketplace.visualstudio.com/vscode) | Plataforma encargada del gestionamiento de la extensión.
 
-### 3. ⚡️ Instalación
+## 3. ⚡️ Instalación
 
 Para instalar el plugin DatAge: Sockets, es necesario tener previamente instalado el editor de texto [Visual Studio Code](https://code.visualstudio.com/), a continuación desde la pestaña de Extensiones, o bien con el comando Crtl + Shift + X (windows) buscamos la extensión **DatAge** y presionamos _Install_.
 
 ![Extensión sockets - DatAge](https://raw.githubusercontent.com/GedersonG/socket-extension/main/img/extension-datage.PNG)
 
-### 4. 💬 Preguntas frecuentes
+## 4. 💬 Preguntas frecuentes
 
 - **¿Por qué usar la extensión DatAge: Sockets?**
     La extension _**DatAge:** Sockets_ permite facilitar la construcción de métodos básicos que se implementan en los sockets como emitir y escuchar por parte de los sockets en el servidor y cliente, además de iniciar la comunicación recibiendo la conexión HTTP del usuario en cuestión.
 
-### 5. 📫 Licencia
+## 5. 📫 Licencia
 
 ![Licencia](https://img.shields.io/badge/Licencia-MTI-blue)
 
 **Free Software !!! :D**
 
-## 6. 👯‍♀️ Authors
+## 6. 👯‍♀️ Autores
 
 - [@Gederson Gustavo](https://github.com/GedersonG)
 
@@ -123,6 +125,6 @@ Para instalar el plugin DatAge: Sockets, es necesario tener previamente instalad
 
 - [@Jhonny Guarin](https://www.github.com/JhonnyGCH)
 
-## 7. 👩‍💻 Documentation
+## 7. 👩‍💻 Documentacion
 
-[Documentation](https://docs.google.com/document/d/1gewPhSp0FSilMlkJxB-aGiw4JRkLItmUHs6Aegr1xIM/edit?usp=sharing)
+[![Documentacion](https://img.shields.io/badge/Documentaci%C3%B3n-blueviolet)](https://docs.google.com/document/d/1gewPhSp0FSilMlkJxB-aGiw4JRkLItmUHs6Aegr1xIM/edit?usp=sharing)
