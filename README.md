@@ -2,14 +2,14 @@
 
 [![DatAge](https://raw.githubusercontent.com/GedersonG/socket-extension/main/img/Adjust-logo.png)](https://datage-production.up.railway.app/)
 
-## Tabla de contenidos
+## Tabla de contenido
 1. [Información general](#1--información-general)
 2. [Tecnologías](#2--tecnologías)
 3. [Instalación](#3-%EF%B8%8F-instalación)
 4. [Preguntas frecuentes](#4--preguntas-frecuentes)
 5. [Licencia](#5--licencia)
-6. [Autores](#6-👯‍♀️-autores)
-7. [Documentacion](#7--documentacion)
+6. [Autores](#6--autores)
+7. [Documentación](#7--documentacion)
 
 ## 1. 🤔 Información general
 
@@ -127,4 +127,4 @@ Para instalar el plugin DatAge: Sockets, es necesario tener previamente instalad
 
 ## 7. 👩‍💻 Documentacion
 
-[![Documentacion](https://img.shields.io/badge/Documentaci%C3%B3n-blueviolet)](https://docs.google.com/document/d/1gewPhSp0FSilMlkJxB-aGiw4JRkLItmUHs6Aegr1xIM/edit?usp=sharing)
+[![Documentación](https://img.shields.io/badge/Documentaci%C3%B3n-blueviolet)](https://docs.google.com/document/d/1gewPhSp0FSilMlkJxB-aGiw4JRkLItmUHs6Aegr1xIM/edit?usp=sharing)
