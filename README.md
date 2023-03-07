@@ -8,7 +8,7 @@
 3. [Instalación](#3-%EF%B8%8F-instalación)
 4. [Preguntas frecuentes](#4--preguntas-frecuentes)
 5. [Licencia](#5--licencia)
-6. [Autores](#6--autores)
+6. [Autores](#6-👯‍♀️-autores)
 7. [Documentacion](#7--documentacion)
 
 ## 1. 🤔 Información general
