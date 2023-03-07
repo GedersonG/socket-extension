@@ -21,7 +21,7 @@ Aunque estos fragmentos contienen la estructura básica de la utilización más 
 
 La arquitectura implementada en este proyecto es la arquitectura microkernel. El patrón de arquitectura Microkernel permite añadir características adicionales de la aplicación como plug-ins a la aplicación central, proporcionando extensibilidad así como separación y aislamiento de características.
 
-[![Microkernel](https://raw.githubusercontent.com/GedersonG/socket-extension/main/img/Microkernel.PNG)](https://reactiveprogramming.io/blog/es/estilos-arquitectonicos/microkernel)
+[![Microkernel](https://raw.githubusercontent.com/GedersonG/socket-extension/main/img/Kernel.PNG)](https://reactiveprogramming.io/blog/es/estilos-arquitectonicos/microkernel)
 
 El core system representa la aplicación a la que va dirigida el plugin, que correspone a cualquier aplicación que implemente sockets, importando la API de Visual Studio Code, la cuál suministra los servicios adecuados para la generación de extensiones y finalmente importa el plugin generado.
 
