@@ -103,7 +103,7 @@ Para instalar el plugin DatAge: Sockets, es necesario tener previamente instalad
 ![Extensión sockets - DatAge](https://raw.githubusercontent.com/GedersonG/socket-extension/main/img/extension-datage.PNG)
 
 Para consultar como utilizar esta extension, puedes consultar el manual de usuario
-[![Manual de usuario](https://img.shields.io/badge/Manual_de_usuario-success)]()
+[![Manual de usuario](https://img.shields.io/badge/Manual_de_usuario-success)](https://docs.google.com/document/d/1yVFFPuLYgTEg1FiZYeb-rl-KSj8rnyosiVxlm5uzogA/edit?usp=sharing)
 
 ## 4. 💬 Preguntas frecuentes
 
